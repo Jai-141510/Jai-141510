@@ -42,7 +42,7 @@ Joins, subqueries, window functions, aggregations — built from scratch.
 
 ## Background
 
-2+ years at **Barclays Bank UK** in payments operations. Used Python to analyze payment error data, identify rejection patterns and propose fixes that cut rejection rates by 72% and client error rates by 55%. Built 3 Power BI dashboards from scratch to track RPA bot performance that is currently used by payment leads to spot inefficiencies and make data-driven updates to automation workflows. Also led process changes that standardized operations across 3 global teams. That day-to-day work of pulling data, finding what's broken, and measuring whether the fix worked is what pushed me further into data science.
+2+ years at **Barclays Bank UK** in payments operations. Used Python to analyze payment error data, identify rejection patterns and propose fixes that cut rejection rates by 72% and client error rates by 55%. Built 3 Excel dashboards from scratch to track RPA bot performance that is currently used by payment leads to spot inefficiencies and make data-driven updates to automation workflows. Additionally I have initiated and led process changes that standardized operations across 3 global teams. That day-to-day work of pulling data, finding what's broken, and measuring whether the fix worked is what pushed me further into data science.
 
 ---
 
