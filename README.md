@@ -20,6 +20,13 @@ I've spent 2 years at Barclays figuring out why payments fail and fixing them at
 
 ## Projects
 
+### 🔊 [Sonar Object Detection — KNN Classifier](https://github.com/Jai-141510/KNN-Sonar-Project)
+Detects underwater mines vs rocks from 60 sonar frequency responses using K-Nearest Neighbours.
+Full pipeline with operations variable, cross-validation, and GridSearchCV across K values, weights, and distance metrics.
+**Result: 86% accuracy and 90% precision on mine detection.**
+
+---
+
 ### 🫀 [Heart Disease Prediction — Logistic Regression](https://github.com/Jai-141510/Logistic-Regression-Project-GridSearchCV_)
 Predicts heart disease from 13 clinical features using Logistic Regression with a full sklearn Pipeline.
 Cross-validation, GridSearchCV across L1/L2/ElasticNet penalties, and a real lesson in why optimising for recall alone backfires.
@@ -27,7 +34,7 @@ Cross-validation, GridSearchCV across L1/L2/ElasticNet penalties, and a real les
 
 ---
 
-### 🏡 [Ames Housing — Sale Price Predictor](https://github.com/Jai-141510/Linear-Regression-Project-Housing-Data-Using-ElasticNet-GridSearch)
+### 🏡 [Ames Housing — Linear Regression](https://github.com/Jai-141510/Linear-Regression-Project-Housing-Data-Using-ElasticNet-GridSearch)
 Predicts house sale prices from 276 engineered features using ElasticNet regression with GridSearchCV tuning.
 Full pipeline: outlier removal → missing data handling → model + hyperparameter search.
 **Result: ~10% error on a mean price of $180K**
