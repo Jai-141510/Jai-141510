@@ -20,9 +20,16 @@ I've spent 2 years at Barclays figuring out why payments fail and fixing them at
 
 ## Projects
 
+### 🫀 [Heart Disease Prediction — Logistic Regression](https://github.com/Jai-141510/Logistic-Regression-Project-GridSearchCV_)
+Predicts heart disease from 13 clinical features using Logistic Regression with a full sklearn Pipeline.
+Cross-validation, GridSearchCV across L1/L2/ElasticNet penalties, and a real lesson in why optimising for recall alone backfires.
+**Result: 88% recall on unseen patients, solid for a 303-row medical dataset.**
+
+---
+
 ### 🏡 [Ames Housing — Sale Price Predictor](https://github.com/Jai-141510/Linear-Regression-Project-Housing-Data-Using-ElasticNet-GridSearch)
 Predicts house sale prices from 276 engineered features using ElasticNet regression with GridSearchCV tuning.
-Full pipeline: outlier removal → missing data handling → one-hot encoding → model + hyperparameter search.
+Full pipeline: outlier removal → missing data handling → model + hyperparameter search.
 **Result: ~10% error on a mean price of $180K**
 
 ---
