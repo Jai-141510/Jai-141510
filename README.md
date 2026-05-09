@@ -27,7 +27,7 @@ Full pipeline with operations variable, cross-validation, and GridSearchCV acros
 
 ---
 
-### 🫀 [Heart Disease Prediction — Logistic Regression](https://github.com/Jai-141510/Logistic-Regression-Project-GridSearchCV_)
+### 🫀 [Heart Disease Prediction — Logistic Regression](https://github.com/Jai-141510/Logistic-Regression-Project-GridSearchCV)
 Predicts heart disease from 13 clinical features using Logistic Regression with a full sklearn Pipeline.
 Cross-validation, GridSearchCV across L1/L2/ElasticNet penalties, and a real lesson in why optimising for recall alone backfires.
 **Result: 88% recall on unseen patients, solid for a 303-row medical dataset.**
