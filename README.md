@@ -20,7 +20,7 @@ I've spent 2 years at Barclays figuring out why payments fail and fixing them at
 
 ## Projects
 
-### 🔊 [Sonar Object Detection — KNN Classifier](https://github.com/Jai-141510/KNN-Sonar-Project)
+### 🔊 [Sonar Object Detection — KNN Classifier](https://github.com/Jai-141510/KNN-Project-SonarData)
 Detects underwater mines vs rocks from 60 sonar frequency responses using K-Nearest Neighbours.
 Full pipeline with operations variable, cross-validation, and GridSearchCV across K values, weights, and distance metrics.
 **Result: 86% accuracy and 90% precision on mine detection.**
