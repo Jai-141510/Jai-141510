@@ -20,6 +20,12 @@ I've spent 2 years at Barclays figuring out why payments fail and fixing them at
 
 ## Projects
 
+### 📡 [Telecom Churn Prediction — Random Forest & XGBoost](https://github.com/Jai-141510/Random_Forest_XGBoost_IBM_Telecom_Churn_Analysis)
+
+Predicts which telecom customers are about to churn using the IBM Telco dataset (7,032 customers, 21 features). Built and compared two models with a class imbalance handled via `class_weight='balanced'` and `scale_pos_weight`, and a head-to-head evaluation on recall — the metric that actually matters for churn. **Result: XGBoost catches 68% of real churners vs 44% with Random Forest.**
+
+---
+
 ### 🔊 [Sonar Object Detection — KNN Classifier](https://github.com/Jai-141510/KNN-Project-SonarData)
 Detects underwater mines vs rocks from 60 sonar frequency responses using K-Nearest Neighbours.
 Full pipeline with operations variable, cross-validation, and GridSearchCV across K values, weights, and distance metrics.
